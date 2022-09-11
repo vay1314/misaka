@@ -4,6 +4,7 @@
 # @Author : github@limoruirui https://github.com/limoruirui
 # @Time : 17/5/2022 19:26
 # -------------------------------
+# cron 1 1 1 1 1
 
 """
 1.爱奇艺每月领取会员天数红包脚本 请低调使用 请不要用于商业牟利
